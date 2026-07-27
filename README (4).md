@@ -4,7 +4,9 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Student at Chitkara University, Punjab, India
+- Computer Science (AI/ML) undergraduate,studying at Chitkara University, Punjab, delivering measurable results by building and evaluating systems with
+the latest AI technologies. Comfortable working across the ML development lifecycle, from data processing to
+evaluation, using Python and SQL. Motivated with an interest in growing toward product and engineering leadership.
 
 ---
 
