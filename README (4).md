@@ -1,3 +1,4 @@
+![logo](https://github.com/gsinghcommits/gsinghcommits/blob/main/github111.png)
 <h1 align="center">Hi 👋, I'm Gurinder Singh</h1>
 <h3 align="center">Aspiring AI/ML Engineer | Machine Learning | Generative AI & RAG Systems</h3>
 
