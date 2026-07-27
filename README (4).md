@@ -19,14 +19,6 @@ evaluation, using Python and SQL. Motivated with an interest in growing toward p
 
 ---
 
-### 📜 Certifications
-- Microsoft Certified: Azure AI Fundamentals (AI-900)
-- Microsoft Certified: Azure Data Fundamentals (DP-900)
-- AWS AI & ML Scholars (2026 Challenge)
-- Cisco Introduction to IoT
-
----
-
 - 📧 Email: **gur007dhiman@gmail.com**
 - 📄 Know about my experience: [linkedin.com/in/gurinder-singh-0b45b9401](https://linkedin.com/in/gurinder-singh-0b45b9401)
 
@@ -63,4 +55,3 @@ evaluation, using Python and SQL. Motivated with an interest in growing toward p
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gsinghcommits&theme=radical" alt="gsinghcommits" /></p>
