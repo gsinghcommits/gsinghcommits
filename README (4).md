@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-- Computer Science (AI/ML) undergraduate,studying at Chitkara University, Punjab, delivering measurable results by building and evaluating systems with
+Computer Science (AI/ML) undergraduate,studying at Chitkara University, Punjab, delivering measurable results by building and evaluating systems with
 the latest AI technologies. Comfortable working across the ML development lifecycle, from data processing to
 evaluation, using Python and SQL. Motivated with an interest in growing toward product and engineering leadership.
 
@@ -13,7 +13,7 @@ evaluation, using Python and SQL. Motivated with an interest in growing toward p
 ### 🛠️ Tech Stack
 - 🐍 **Languages:** Python, C++, Java
 - 🧠 **AI/ML & Generative AI:** RAG, Vector Databases (ChromaDB), Knowledge Graphs (Neo4j), Hugging Face Transformers, Sentence-Transformers, NLP, LangChain, Prompt Engineering
-- 📊 **Frameworks & Libraries:** Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, Flask, Django, React, Node.js
+- 📊 **Frameworks & Libraries:** Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, Flask, Django, React
 - ☁️ **Cloud & Platforms:** Microsoft Azure, AWS
 - 🗄️ **Tools & Databases:** Git, GitHub, SQL, MySQL
 
@@ -59,6 +59,8 @@ evaluation, using Python and SQL. Motivated with an interest in growing toward p
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Guri007dhiman&theme=radical" alt="Guri007dhiman" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gsinghcommits&theme=radical" alt="gsinghcommits" /></p>
